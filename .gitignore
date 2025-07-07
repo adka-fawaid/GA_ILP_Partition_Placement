@@ -1,0 +1,10 @@
+*.csv
+file MD/*
+yafs/
+yafs_fog_computing.egg-info/
+.*_pychache
+__pycache__/
+_pycache_/
+.venv/
+*.pyc
+main.py
