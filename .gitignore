@@ -8,4 +8,4 @@ _pycache_/
 .venv/
 *.pyc
 main.py
-README.md
+.gitignore
