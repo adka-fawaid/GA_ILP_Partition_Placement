@@ -5,3 +5,4 @@ file .DS_Store
 __pycache__/
 *.pyc
 .venv
+src/__pycache__/
