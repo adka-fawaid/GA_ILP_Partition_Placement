@@ -1,0 +1,27 @@
+Metadata-Version: 2.4
+Name: yafs-fog-computing
+Version: 0.2.0
+Home-page: https://github.com/hafidnrzs/yafs-fog-computing
+Author: Hafid Nur
+Author-email: hafidnurazis@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: simpy
+Requires-Dist: pandas
+Requires-Dist: networkx
+Requires-Dist: numpy
+Requires-Dist: tqdm
+Requires-Dist: matplotlib
+Requires-Dist: pulp
+Requires-Dist: shapely
+Requires-Dist: pyproj
+Requires-Dist: scipy
+Requires-Dist: smopy
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
