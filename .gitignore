@@ -1,8 +1,1 @@
-file MD/
-file .DS_Store
-*csv
-*npy
-__pycache__/
-*.pyc
-.venv
-src/__pycache__/
+.venv/
